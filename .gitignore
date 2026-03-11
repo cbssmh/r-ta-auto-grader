@@ -1,0 +1,4 @@
+*.Rout
+results.csv
+node_modules
+.DS_Store
